@@ -1,1 +1,1 @@
-![keyCode Picture](img/event-keycodes.png)
+![keyCode Picture](https://github.com/kevinbdx35/event-keycodes/blob/main/screen-capture-gif.gif?raw=true)
